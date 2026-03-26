@@ -1,2 +1,2 @@
-# Detector-De-Huella-Arduino
+# README
 un avance de nuestro proyecto
